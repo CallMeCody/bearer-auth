@@ -8,7 +8,7 @@
 
 - [ci/cd](https://github.com/CallMeCody/bearer-auth/actions) (GitHub Actions)
 - [HEROKU APP]()
-- [Pull Request]()
+- [Pull Request](https://github.com/CallMeCody/bearer-auth/pull/2)
 
 ### Setup
 
